@@ -1,0 +1,13 @@
+Trompette's Vim configuration
+
+Install
+
+1. Clone this repository
+2. Symlink the clone as ~/.vim
+3. Prepend and uncomment autoload/pathogen.vim to your .vimrc
+
+
+License
+
+See LICENSE file
+
