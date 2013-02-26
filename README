@@ -1,11 +1,18 @@
 Trompette's Vim configuration
 
-Install
+Installation
 
 1. Clone this repository
 2. Initialize and update submodules
 3. Symlink the clone as ~/.vim
-4. Prepend and uncomment autoload/pathogen.vim to your .vimrc
+
+
+Configuration
+
+Enable pathogen in your .vimrc:
+
+  runtime bundle/vim-pathogen/autoload/pathogen.vim
+  execute pathogen#infect()
 
 
 License
