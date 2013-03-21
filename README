@@ -6,15 +6,7 @@ Installation
 1. Clone this repository
 2. Initialize and update submodules
 3. Symlink the clone as ~/.vim
-
-
-Configuration
--------------
-
-Enable pathogen in your .vimrc:
-
-  runtime bundle/vim-pathogen/autoload/pathogen.vim
-  execute pathogen#infect()
+4. Symlink the vimrc as ~/.vimrc
 
 
 Copying
