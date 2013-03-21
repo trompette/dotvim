@@ -16,3 +16,5 @@ if has("gui_running")
 	colorscheme torte
 endif
 
+set laststatus=2
+
