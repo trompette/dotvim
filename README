@@ -1,6 +1,7 @@
 Trompette's Vim configuration
 
 Installation
+------------
 
 1. Clone this repository
 2. Initialize and update submodules
@@ -8,6 +9,7 @@ Installation
 
 
 Configuration
+-------------
 
 Enable pathogen in your .vimrc:
 
@@ -15,7 +17,9 @@ Enable pathogen in your .vimrc:
   execute pathogen#infect()
 
 
-License
+Copying
+-------
 
-See LICENSE file
+Copyright (c) 2013 Benoît Merlet
+See LICENSE file for more details
 
