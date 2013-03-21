@@ -4,9 +4,7 @@ Installation
 ------------
 
 1. Clone this repository
-2. Initialize and update submodules
-3. Symlink the clone as ~/.vim
-4. Symlink the vimrc as ~/.vimrc
+2. Lauch install.sh
 
 
 Copying
